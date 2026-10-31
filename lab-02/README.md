@@ -1,8 +1,8 @@
 # Lab 2: SQLite Database and CRUD Routes
 
 **Name:** Siripuram Nivas  
-**Registration number:** `<add your registration number>`  
-**Section:** `<add your section>`  
+**Registration number:** 252U1R7089  
+**Section:** CSE(FSD)2B  
 **Course:** Backend Development Fundamentals  
 **Lab:** 02
 
